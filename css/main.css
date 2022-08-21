@@ -1,0 +1,39 @@
+.instagram{
+    width: 280px;
+    height: 280px;
+    background: #d6249f;
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+    border-radius: 20%;
+    box-shadow: 0px 3px 10px rgba(0,0,0,.25);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    margin-top: 15%;
+  }
+  .box{
+    border: 10px solid #fff;
+    border-radius: 20%;
+    height: 180px;
+    width: 180px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .tabs{
+    width: 90px;
+    height: 90px;
+    border: 10px solid #fff;
+    border-radius: 50%;
+  }  
+  .dotet{
+   position: absolute;
+   width: 8px;
+   height: 8px;
+   border: 2px solid #fff;
+   background-color: #fff;
+   border-radius: 50%;
+   top: 20px;
+   right: 20px;
+  }
